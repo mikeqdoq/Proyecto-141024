@@ -21,7 +21,9 @@ console.log(typeof "/");
 console.log(typeof "0");
 console.log(typeof 0);
 console.log(typeof 0.123);
-
+console.log(typeof 5 === 5);
+console.log(typeof "Hola mundo".length);
+console.log(typeof {})
 
 
 
